@@ -9,7 +9,7 @@ from aiogram.fsm.context import FSMContext
 import google.generativeai as genai
 
 # ПАРАМЕТРЛЕР (Осында өз деректеріңізді қойыңыз)
-TOKEN = "8609450716:AAHI-arhujSAFR9e5kbYUd_2GR-DRWhy15Y"
+TOKEN = "8609450716:AAH-QAyc-p2C57jq65QpdqjBmbpFtkkjzoo"
 GEMINI_KEY = "AIzaSyBFAGEpqJarppqmoSSNP_n0OATYqlfrASM" # Google AI Studio-дан тегін аласыз
 ADMIN_ID = 7397153270 # Өзіңіздің ID-іңіз (статистика үшін)
 
